@@ -1,2 +1,2 @@
 # my-app
-it is a textutils app
+This project was bootstrapped with Create React App
